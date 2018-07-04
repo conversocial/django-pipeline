@@ -1,8 +1,8 @@
 import os
 import sys
 import urllib
+import importlib
 
-from django.utils import importlib
 from django.utils.encoding import smart_str
 
 
